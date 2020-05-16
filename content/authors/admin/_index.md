@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sol Messing
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chief Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Another Acronym
+- name: Georgetown University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: Sol Messing is Chief Scientist at Another Acronym
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Political Communication
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Statistics
+    institution: Stanford University
+  - course: Intl MBA (Policy focus)
+    institution: UC San Diego (GPS)
+  - course: BA in Political Science
+    institution: UC Santa Barbara
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +39,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact' # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SolomonMg
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=to63kiAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: http://github.com/solomonmg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: pdf/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +65,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chief Scientist at Acronym, Affiliated Researcher at Georgetown. Also formerly founding Director at Pew Research Center’s [Data Labs](http://www.pewresearch.org/fact-tank/2017/02/23/qa-with-solomon-messing-of-pew-research-centers-data-labs/) and principle Research Scientist at Facebook. 
+
+I use complex experimentation and modeling, behavioral data from the web, and surveys to study how people understand and react to social information. Lately I've also been working on using [privacy tech](https://arxiv.org/abs/2002.04049) to [unlock research/ML](/assets/pdf/Facebook_DP_URLs_Dataset.pdf) in corporate data warehouses. 
+
+My work has been published in [Science](/assets/pdf/Science-2015-Bakshy-1130-2.pdf), the [American Political Science Review](/assets/pdf/EstimatingIdeologyFromFacebookPageLikes.pdf), the [Journal of Politics](/assets/pdf/aggregator.pdf), [Public Opinion Quarterly](/assets/pdf/HSVmetricsCampaignsDarknessPOQFINAL.pdf), [Communication Research](/assets/pdf/SocialNewsCommRes.pdf), [Radiology](http://pubs.rsna.org/doi/full/10.1148/radiol.11110715) and [Pediatric Radiology](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2011.00280.x/abstract). My book, [*The Impression of Influence*](/assets/pdf/GrimmerWestwoodMessingBook.pdf) with Justin Grimmer and Sean Westwood, was published by Princeton University Press.
