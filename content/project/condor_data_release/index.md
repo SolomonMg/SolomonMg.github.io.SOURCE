@@ -6,7 +6,7 @@ summary: "Largest ever social science data set, released under differential priv
 authors: []
 tags: []
 categories: []
-date: 2020-05-18T22:42:04-05:00
+date: 2020-05-18
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Follow
+  url: https://twitter.com/SolomonMg
+  icon_pack: fab
+  icon: twitter
 
 url_code: ""
 url_pdf: "/pdf/Facebook_DP_URLs_Dataset.pdf"
