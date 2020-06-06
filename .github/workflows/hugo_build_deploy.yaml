@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Checkout master
       uses: actions/checkout@v1
-      with:
+      with: 
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
