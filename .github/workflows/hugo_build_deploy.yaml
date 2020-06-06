@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.70.0
         TARGET_REPO: SolomonMg/SolomonMg.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        CNAME: www.jameswright.xyz
+        # CNAME: www.jameswright.xyz
