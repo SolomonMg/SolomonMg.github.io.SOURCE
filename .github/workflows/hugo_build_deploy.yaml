@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.68.3
         TARGET_REPO: SolomonMg/SolomonMg.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        HUGO_ARGS: --debug
+        HUGO_ARGS: '-t academic'
