@@ -31,21 +31,22 @@ projects: [research]
 ---
 
 
-According to the polling data, Trump’s chances of hanging on to power beyond 2020 look pretty dismal. Nate Cohn published an impressive battleground [poll from New York Times/Sienna](https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html) showing Biden ahead of Trump by at least six points in pivotal states. The Economist’s forecast, powered by Elliott Morris and Andrew Gelman, is suggesting Biden is likely to get 64% of electoral college votes, and that if the election were held 100 times Biden would [win 90 times to Trump’s 10](https://statmodeling.stat.columbia.edu/2020/06/12/election-2020-is-coming-our-poll-aggregation-model-with-elliott-morris-of-the-economist/). 
+According to the latest polling research, Trump’s chances of hanging on to power beyond 2020 look pretty dismal. Nate Cohn published an impressive battleground [poll from New York Times/Sienna](https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html) showing Biden ahead of Trump by at least six points in pivotal states. The Economist’s forecast, powered by Elliott Morris and Andrew Gelman, is suggesting Biden is likely to get 64% of electoral college votes, and that if the election were held 100 times Biden would [win 90 times to Trump’s 10](https://statmodeling.stat.columbia.edu/2020/06/12/election-2020-is-coming-our-poll-aggregation-model-with-elliott-morris-of-the-economist/). 
 
 At this point I would like to remind you of that feeling you felt on election night 2016. When a month earlier, [CNN's 'Poll of Polls' had Clinton up by 9 points](https://www.cnn.com/2016/10/23/politics/hillary-clinton-donald-trump-presidential-polls/index.html) and two prominent forecasters put Clinton’s chances at 99%. Remember that? 
 
-I could probably stop there, but I’m not going to because in addition to all the reasons the polls got it wrong in 2016, we have COVID-19. And COVID will mess with our election in ways very likely to hurt Democrats, and so far I know of no pollster or forecaster factoring this into their method or likely voter model. 
+I could probably stop there, but I’m not going to because although we've fixed some of the issues from 2016, we have COVID-19. And COVID will mess with our election in ways very likely to hurt Democrats, and so far I know of no pollster or forecaster factoring this into their method or likely voter model. 
 
-After 2016, Sean Westwood, Yphtach Lelkes and I began a multi-year research project (recently published in the [Journal of Politics](https://www.journals.uchicago.edu/doi/abs/10.1086/708682?mobileUi=0)) and found that when you have high confidence that one candidate will win, [you’re less likely to vote](https://solomonmg.github.io/project/projecting_confidence/). The fact that everyone thought Clinton would win in 2016 changed the way campaigns operated, shaped Comey's decision to release his infamous letter, and likely [lowered Democratic turnout](https://solomonmg.github.io/pdf/aggregator.pdf). 
+After 2016, Sean Westwood, Yphtach Lelkes and I began a multi-year research project (recently published in the [Journal of Politics](https://www.journals.uchicago.edu/doi/abs/10.1086/708682?mobileUi=0)) and found that when you have high confidence that one candidate will win, [you’re less likely to vote](https://solomonmg.github.io/project/projecting_confidence/). The fact that everyone thought Clinton would win in 2016 shaped Comey's decision to release his infamous letter that [some believe cost Clinton the election](https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/), changed the way campaigns operated, and likely [lowered Democratic turnout](https://solomonmg.github.io/pdf/aggregator.pdf). 
 
-One pattern that clearly pops out in the data we analyzed is that the proportion of Democrats who thought Clinton would ‘win by quite a bit’ was much higher in 2016 than it has been in many years. 
+In addition to showing this in an experiment, one pattern that clearly pops out in the data we analyzed (ANES timeseries) is that people who think the leading candidate will win by quite a bit report voting at about a 3% lower rate. That's in line with other research showing that early exit polls indicating one candidate is likely to win [decrease turnout](https://www.jstor.org/preview-page/10.2307/2748722?seq=1), and are more likely to [affect Democrats](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1018&context=asc_papers). Yet this is by no means an upper bound---one study found more decisive exit polling [depressed turnout by 11 points](https://www.sciencedirect.com/science/article/pii/S0014292115000483). 
+
+![normal](/img/closerace_vote_anes.png)
+
+While it's if anything a noisy indicator of the influence Clinton's ostensible lead may have had on Democrats compared with Republicans, the proportion of Democrats who thought Clinton would ‘win by quite a bit’ was much higher in 2016 than for Republicans, and much higher than it'd been in many years. 
 
 ![normal](/img/anes_turnout_closerace_mc_tall.png)
 
-People who think the leading candidate will win by quite a bit report voting at about a 3% lower rate. 
-
-![normal](/img/closerace_vote_anes.png)
 
 To be clear, I no longer occupy the role of dispassionate observer--I’m actively working in politics at the moment. 
 
@@ -58,7 +59,7 @@ Make no mistake, COVID-19 is already affecting the political process---look at v
 
 [![normal](/img/538-voter-registrations-are-way-way-down-during-the-pandemic.png)](https://fivethirtyeight.com/features/voter-registrations-are-way-way-down-during-the-pandemic/)
 
-What might all this mean on election day? At first blush, it may be tempting to say to yourself, “COVID is affecting old people more than the young, and they break conservative so the left is probably fine,” before feeling slightly ashamed that you’re thinking about strategic considerations before the loss of life and sadness this statement implies. 
+So it's already hurting Democrats in terms of new registrations, but what might all this mean on election day? At first blush, it may be tempting to say to yourself, “COVID is affecting old people more than the young, and they break conservative so the left is probably fine,” before feeling slightly ashamed that you’re thinking about strategic considerations before the loss of life and sadness this statement implies. 
 
 Think a little deeper and you’ll likely realize that so far COVID-19 has affected left-leaning people in left-leaning places---[non-White voters in urban areas](https://www.npr.org/2020/04/12/832455226/what-coronavirus-exposes-about-americas-political-divide) far more than their suburban/rural counterparts. Even the recent [surge in cases in sunbelt states](https://www.theatlantic.com/politics/archive/2020/06/coronavirus-surge-sun-belt-could-doom-trump/613495/) is hitting urban and non-White regions hardest. 
 
