@@ -35,7 +35,7 @@ According to the latest polling research, Trump’s chances of hanging on to pow
 
 At this point I would like to remind you of that feeling you felt on election night 2016. When a month earlier, [CNN's 'Poll of Polls' had Clinton up by 9 points](https://www.cnn.com/2016/10/23/politics/hillary-clinton-donald-trump-presidential-polls/index.html) and two prominent forecasters put Clinton’s chances at 99%. Remember that? 
 
-I could probably stop there, but I’m not going to because although we've fixed some of the issues from 2016, we have COVID-19. And COVID will mess with our election in ways very likely to hurt Democrats, and so far I know of no pollster or forecaster factoring this into their method or likely voter model. 
+I could probably stop there, but I’m not going to because although we've fixed some of the issues from 2016, we have COVID-19. And COVID will mess with our election in ways very likely to hurt Democrats, and I know of no pollster factoring this into their method or likely voter model. 
 
 After 2016, Sean Westwood, Yphtach Lelkes and I began a multi-year research project (recently published in the [Journal of Politics](https://www.journals.uchicago.edu/doi/abs/10.1086/708682?mobileUi=0)) and found that when you have high confidence that one candidate will win, [you’re less likely to vote](https://solomonmg.github.io/project/projecting_confidence/). The fact that everyone thought Clinton would win in 2016 shaped Comey's decision to release his infamous letter that [some believe cost Clinton the election](https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/), changed the way campaigns operated, and likely [lowered Democratic turnout](https://solomonmg.github.io/pdf/aggregator.pdf). 
 
