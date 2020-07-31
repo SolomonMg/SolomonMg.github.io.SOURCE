@@ -66,7 +66,7 @@ user_groups:
 ---
 
 
-Chief Scientist at Acronym, Affiliated Researcher at Georgetown. Also formerly founding Director at Pew Research Center’s [Data Labs](http://www.pewresearch.org/fact-tank/2017/02/23/qa-with-solomon-messing-of-pew-research-centers-data-labs/) and principle Research Scientist at Facebook. 
+Chief Scientist at Lockwood Strategy (ACRONYM). Affiliated Researcher at Georgetown. Also formerly founding Director at Pew Research Center’s [Data Labs](http://www.pewresearch.org/fact-tank/2017/02/23/qa-with-solomon-messing-of-pew-research-centers-data-labs/) and principle Research Scientist at Facebook. 
 
 I use complex experimentation and modeling, behavioral data from the web, and surveys to study how people understand and react to social information. Lately I've also been working on using [privacy tech](https://arxiv.org/abs/2002.04049) to [unlock research/ML](pdf/Facebook_DP_URLs_Dataset.pdf) in corporate data warehouses. 
 
