@@ -155,11 +155,11 @@ This matters _a lot more_ if one candidate’s potential voters are differential
 
 3\. Consider who shares this material in social media--specifically the average self-reported ideology of people who share links to various sites hosting poll-aggregators on Facebook, data that come from [this paper](http://science.sciencemag.org/content/early/2015/05/06/science.aaa1160.full)’s [replication materials](http://dx.doi.org/10.7910/DVN/LDJ7MS). The websites that present their results in terms of probabilities have left-leaning (negative) social media audiences. Only realclearpolitics.com, which doesn’t emphasize win-probabilities, has a conservative audience:
 
-![half](/assets/img/bma_science_alignment.png)
+![half](/img/bma_science_alignment.png)
 
 4\. In 2016, the proportion of American National Election Study (ANES) respondents who thought the leading candidate would “win by quite a bit” was unusually high for Democrats...
 
-![normal](/assets/img/anes_turnout_closerace_mc_tall.png)
+![normal](/img/anes_turnout_closerace_mc_tall.png)
 
 
 5\. And we know that people who say the leading presidential candidate will “win by quite a bit” in pre-election polling are about three percentage points less likely to report voting shortly after the election than people who say it’s a close race — and that’s after conditioning on election year, prior turnout, and party identification. The data here are from the ANES and go back to 1952.

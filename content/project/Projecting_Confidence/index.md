@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-05-18T22:48:29-05:00
+math: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -92,7 +93,7 @@ Josh Tucker suggested that [538 might be driving prediction markets](http://them
 
 **Our research on forecasting and perception**
 
-[Our research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3117054) shows that probablistic election forecasts make a race look less competitive. Participants in a national probability survey-experiment were substantially more certain that one candidate would win a hypothetical race after seeing a probablistic forecast than after seeing the equivalent vote share estimate and margin of error. This is a big effect---those are confidence intervals not standard errors, with p-values below $$10^{-11}$$. 
+[Our research](/pdf/aggregator.pdf) shows that probablistic election forecasts make a race look less competitive. Participants in a national probability survey-experiment were substantially more certain that one candidate would win a hypothetical race after seeing a probablistic forecast than after seeing the equivalent vote share estimate and margin of error. This is a big effect---those are confidence intervals not standard errors, with p-values below $$10^{-11}$$. 
 
 ![normal](/img/certaintyc.png)
 
@@ -134,11 +135,11 @@ And people who say the leading candidate will *win by quite a bit* in pre-electi
 The data here are from the [American National Election Study (ANES)](https://electionstudies.org) and go back to 1952.
 
 
-Past social science research also provides evidence that the perception of a close race boosts turnout. Some of the best evidence comes from work that analyzes the effects of releasing exit polling results before voting ends, which clearly removes uncertainty. Work examining the effects of East Coast television networks’ “early calls” for one candidate or another on West Coast turnout generally find small but substantively meaningful effects, despite the fact that these calls occur late on election day {% cite carpini1984scooping %}, {% cite Sudman:1986wu %}. Similar work exploiting voting reform as a natural experiment shows a full 12 percentage point decrease in turnout in the French overseas territories that voted after exit polls were released {% cite Morton201565 %}. These designs are not confounded with the tendency for campaigns to invest more in campaigns in competitive races.
+Past social science research also provides evidence that the perception of a close race boosts turnout. Some of the best evidence comes from work that analyzes the effects of releasing exit polling results before voting ends, which clearly removes uncertainty. Work examining the effects of East Coast television networks’ “early calls” for one candidate or another on West Coast turnout generally find small but substantively meaningful effects, despite the fact that these calls occur [late on election day](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1018&context=asc_papers), see also [this](https://academic.oup.com/poq/article-pdf/50/3/331/5135691/50-3-331.pdf?casa_token=Ize8hznQUHAAAAAA:6tMTMfvGSN4tFXyyXbwkew4E47cLlCG8FegNu4ulkzqHE3hJZMzfurBb-Y1GWQcvLbZTYUysOMebxg). Similar work exploiting voting reform as a natural experiment [shows a full 11 percentage point decrease](https://eprints.qut.edu.au/83681/1/1-s2.0-S0014292115000483-main.pdf) in turnout in the French overseas territories that voted after exit polls were released. These designs are not confounded with the tendency for campaigns to invest more in campaigns in competitive races.
 
-Researchers consistently find robust correlations between tighter elections and higher turnout [see {% cite geys2006explaining %}; {% cite cancela2016explaining %} for reviews]. Furthermore, {% cite nicholson1997prior %} provide evidence from statistical models that prior election returns also explain turnout above and beyond campaign spending, particularly when good polling data is unavailable. 
+Researchers consistently find robust correlations between tighter elections and higher turnout [see this](https://www.sciencedirect.com/science/article/abs/pii/S0261379405000910); and [this](https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/2389104/Geys_ES%202016.pdf?sequence=5&isAllowed=y) for reviews]. Furthermore, there is evidence from statistical models that [prior election returns also explain turnout](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1052&context=poliscifacpub) above and beyond campaign spending, particularly when good polling data is unavailable. 
 
-Field experiments provide additional evidence that perceptions of higher electoral competition increases turnout. This work finds substantive effects on turnout when polling results showing a closer race are delivered via telephone [among those who were reached, {% cite biggers2017experimental %}] but null results when relying on postcards to deliver closeness messages [for which it’s not possible to verify the treatment was actually read, {% cite gerber2017one %}; {% cite biggers2017experimental%}. Finally, one study conducted in the weeks leading up to the 2012 presidential election found higher rates of self-reported, post-election turnout when delivering ostensible polling results showing Obama neck-and-neck with Romney [which was not consistent with the extant polling data showing a comfortable Obama lead, {% cite Vannette:2014vk %}].
+Field experiments provide additional evidence that perceptions of higher electoral competition increases turnout. This work finds substantive effects on turnout when polling results showing a closer race are delivered [via telephone]((https://huber.research.yale.edu/materials/67_paper.pdf)) [among those who were reached] but null results when relying on [postcards](https://www.nber.org/papers/w23071) to deliver closeness messages. Finally, one study conducted in the weeks leading up to the 2012 presidential election found higher rates of self-reported, post-election turnout when delivering ostensible polling results showing Obama neck-and-neck with Romney [which was not consistent with the extant polling data showing a comfortable Obama lead](http://www.aapor.org/AAPOR_Main/media/AnnualMeetingProceedings/2013/Session_C-5-1-Vannette.pdf).
 
 **Could this affect politicians as well?**
 
@@ -153,8 +154,5 @@ And former FBI Director James Comey, because of his confidence in a Clinton vict
 **Media coverage**
 [Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/02/06/clintons-achilles-heel-in-2016-may-have-been-overconfidence/?utm_term=.619133ce9312), [FiveThirthyEight’s Politics Podcast](https://fivethirtyeight.com/features/politics-podcast-whats-so-wrong-with-nancy-pelosi/), [New York Magazine](http://nymag.com/intelligencer/2018/02/americans-dont-understand-election-probabilities.html?gtm=bottom&gtm=bottom), [Political Wire](https://politicalwire.com/2018/02/06/election-forecasts-lower-voter-turnout/).
 
-
-**References**
-{% bibliography --cited %}
 
 
