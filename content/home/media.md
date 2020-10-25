@@ -16,7 +16,7 @@ author = "admin"
 
 ## Op-Eds 
 
-- [Election forecasts helped elect Trump in 2016. It could happen again in 2020.](https://www.usatoday.com/story/opinion/2020/10/01/election-forecasts-can-wrong-you-still-need-vote-column/5857993002/). **USA Today**
+- [Election forecasts helped elect Trump in 2016. It could happen again in 2020](https://www.usatoday.com/story/opinion/2020/10/01/election-forecasts-can-wrong-you-still-need-vote-column/5857993002/). **USA Today**
 
 - [How election forecasts confuse Americans — and may lead them not to vote at all](https://www.washingtonpost.com/news/monkey-cage/wp/2018/03/22/how-election-forecasts-confuse-americans-and-may-lead-them-not-to-vote-at-all/). **Washington Post's Monkey Cage** 
 
