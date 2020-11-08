@@ -7,8 +7,8 @@ summary: ""
 authors: [Sol Messing]
 tags: []
 categories: []
-date: 2020-06-20
-lastmod: 2020-06-20
+date: 2020-11-08
+lastmod: 2020-11-08
 featured: true
 draft: false
 
