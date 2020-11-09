@@ -30,17 +30,17 @@ image:
 projects: [research]
 ---
 
-It’s becoming clear that the 2020 polls underestimated Trump’s support by anywhere from a 4-7 point margin--a significantly worse miss than in 2016, when [state polls were off but the national polls did relatively well](https://fivethirtyeight.com/features/the-polls-are-all-right/). 
+It’s becoming clear that the 2020 polls underestimated Trump’s support by anywhere from a 3-8 point margin depending on your accountign--a significantly worse miss than in 2016, when [state polls were off but the national polls did relatively well](https://fivethirtyeight.com/features/the-polls-are-all-right/). 
 
 In fact, this year we were better off using projections based on past vote history in each state to predict how things would go in battleground states, as I'll show below. 
 
-But I also want to start to formulate questions about what happened this time around. The polling from 2018 looked encouraging, convincing many pollsters that the post-2016 reconing had fixed many issues called out in the [2016 AAPOR report on election polling](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx). After 2018, FiveThirtyEight wrote that the ["Polls are Alright"](https://fivethirtyeight.com/features/the-polls-are-all-right/).
+But I also want to start to ask questions about what happened this time around. The polling from 2018 looked encouraging, convincing many pollsters that the post-2016 reconing had fixed many issues called out in the [2016 AAPOR report on election polling](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx). After 2018, FiveThirtyEight wrote that the ["Polls are Alright"](https://fivethirtyeight.com/features/the-polls-are-all-right/).
 
 But the second Miami-Daude reported results from the 2020 election, we knew something was probably wrong with the 2020 polls.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s another chart of polls vs. returns that splits the data by how much the polls underestimated Trump. One place where the polls most underestimated Trump is Wisconsin (off by -9 points). Note returns are not yet verified and states are still finalizing their counts. <a href="https://t.co/iM8mjqoAuK">pic.twitter.com/iM8mjqoAuK</a></p>&mdash; 💀💀 Stefan Wojcik 💀💀 (@stefanjwojcik) <a href="https://twitter.com/stefanjwojcik/status/1325786708022079488?ref_src=twsrc%5Etfw">November 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m sure others are looking at this, and we can&#39;t do a full accounting until all the state returns are verified, but so far it looks the weighted averages of state polls were off almost entirely in the same direction. The polling data are simple weighted avgs from 538. <a href="https://t.co/r070psBKJy">pic.twitter.com/r070psBKJy</a></p>&mdash; 💀💀 Stefan Wojcik 💀💀 (@stefanjwojcik) <a href="https://twitter.com/stefanjwojcik/status/1324889531162746884?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- -->
+As Stefan notes (we worked together at Pew Research Center's Data Labs), the error seems slightly lower in key battleground states, though the polls missed big in WI, perhaps in part due to its horrifically bad voter file data.
 
 Unlike 2016, both state and national polls appeared to underestimate Trump's support, as this early (Nov 7) analysis from [Tom Wood](https://twitter.com/thomasjwood) shows: 
 
@@ -52,7 +52,7 @@ Perhaps what surprised me the most about polling this time around was when I wen
 
 ![normal](/img/PollingVSPastVoteProj.png)
 
-We used these projections, and other extant data (including the fact that there are two Senate races in play), when making what turned out to be a very lucky decision to start spending money in Georgia. 
+We used these projections, and other extant data (including the fact that there are two Senate races in play), when making what turned out to be a very lucky decision to start spending money in Georgia. We were one of the biggest and earliest spenders in that race. 
 
 What are these projections? I simply took the last two state-level Presidential and U.S. House election totals, estimated each state's "trajectory," and added that to each state's Democratic margin from the previous cycle. 
 
@@ -61,6 +61,10 @@ What are these projections? I simply took the last two state-level Presidential 
 This approach was inspired by findings from [Yair Ghitza](https://catalist.us/yair-ghitza-phd/), which if I understood them correctly, suggested that the best election forecasts look a lot like regularized swing projections from past electoral contests. 
 
 I should note that this may only have worked because of something pecular about this election cycle--I haven't gone an back-tested this approach or anything like that. 
+
+Seems I was not the only one who noticed this kind of pattern:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A similar observation from <a href="https://twitter.com/gelliottmorris?ref_src=twsrc%5Etfw">@gelliottmorris</a> <a href="https://t.co/XSUAhGBZfb">https://t.co/XSUAhGBZfb</a></p>&mdash; Solomon Messing (@SolomonMg) <a href="https://twitter.com/SolomonMg/status/1325522770890027008?ref_src=twsrc%5Etfw">November 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## What went wrong: The Usual Suspects
 
@@ -82,7 +86,15 @@ What's more, pollsters adjusted only for college/non-college, which may not have
 
 **Likely voter models**: This is difficult to fully unpack since each polling house does this slightly differently and not all publish their methods—some ask a battery of voter questions, some use models, some recruit off the voter file. But there’s only a weak relationship between who votes and who scores high on the likely voter battery. To make matters worse, 2020 was a very high-turnout election, which could have introduced even more instability into likely voter models. 
 
-**COVID-19**: I wrote about [this back in June](http://localhost:1313/post/trumps-chances-are-better-than-they-look/). It's possible that COVID-19 made lines long and kept people home in urban areas and non-white communities. Yes we had record turnout but all it takes is a few percent of people who encounter a bit of voting friction, who fail to register in person, don’t get in person canvassing/gotv contact, don’t vote by mail early, and/or don’t vote in vote in person. 
+Another important point from Peter Suzman is that likely voter screens could have inflated estimates of Dem turnout if they asked if respondents had already voted---it was Democrats who voted early. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Easily. An &quot;unlikely&quot; voter (by some screen) on the Dem side that has already voted gets counted; his/her exact counterpart on the GOP side that votes on election day doesn&#39;t. <br>I commented before the election on the possibility that polls would skew Dem because of this.</p>&mdash; Peter Suzman (@Biomaven) <a href="https://twitter.com/Biomaven/status/1325545770230161408?ref_src=twsrc%5Etfw">November 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+However, that would only explain error in likely voter models, not polling based on registered voters, which also seemed to miss big this cycle, as I pointed out: 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Still interesting but an issue w this explanation is that while it could interact with likely voter models, it’s unlikely to explain the error in registered voter samples which rely on the voter file over likely voter question batteries. (HT an old friend) <a href="https://t.co/F2xciDV7vr">https://t.co/F2xciDV7vr</a></p>&mdash; Solomon Messing (@SolomonMg) <a href="https://twitter.com/SolomonMg/status/1325605403636486146?ref_src=twsrc%5Etfw">November 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**COVID-19**: I wrote about [this back in June](https://solomonmg.github.io/post/trumps-chances-are-better-than-they-look/). It's possible that COVID-19 made lines long and kept people home in urban areas and non-white communities. Yes we had record turnout but all it takes is a few percent of people who encounter a bit of voting friction, who fail to register in person, don’t get in person canvassing/gotv contact, don’t vote by mail early, and/or don’t vote in vote in person. 
 
 **Shy Trump voters**: There's a hypothesis out there that people are embarassed to admit that they would vote for Trump. The evidence for this is limited--Kyle Dropp and co at Morning Consult did some experimental work on this and found that people were slightly more likely [in the 2016 primaries (but NOT the General and not in 2020)](https://morningconsult.com/form/shy-trump-2020/) to say that they would vote for Trump when answering via online survey compared with speaking with a live pollster over the phone. But they've done many follow-on surveys since and the pattern doesn't persist.  
 
