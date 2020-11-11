@@ -10,7 +10,7 @@ categories: []
 date: 2020-10-06
 lastmod: 2020-10-06
 featured: true
-draft: true
+draft: false
 
 math: true
 
