@@ -34,9 +34,9 @@ It’s becoming clear that the 2020 polls underestimated Trump’s support by an
 
 In fact, this year we were better off using projections based on past vote history in each state to predict how things would go in battleground states, as I'll show below. 
 
-But I also want to start to ask questions about what happened this time around. The polling from 2018 looked encouraging, convincing many pollsters that the post-2016 reconing had fixed many issues called out in the [2016 AAPOR report on election polling](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx). After 2018, FiveThirtyEight wrote that the ["Polls are Alright"](https://fivethirtyeight.com/features/the-polls-are-all-right/).
+But I also want to start to ask questions about what happened this time around. The polling from 2018 looked encouraging, convincing many pollsters that the post-2016 reckoning had fixed many issues called out in the [2016 AAPOR report on election polling](https://www.aapor.org/Education-Resources/Reports/An-Evaluation-of-2016-Election-Polls-in-the-U-S.aspx). After 2018, FiveThirtyEight wrote that the ["Polls are Alright"](https://fivethirtyeight.com/features/the-polls-are-all-right/).
 
-But the second Miami-Daude reported results from the 2020 election, we knew something was probably wrong with the 2020 polls.
+But the second Miami-Dade reported results from the 2020 election, we knew something was probably wrong with the 2020 polls.
 
 {{< single_tweet 1325786708022079488 >}}
 
@@ -66,7 +66,7 @@ This approach was inspired by findings from [Yair Ghitza](https://catalist.us/ya
 {{< single_tweet 1325564912798752773 >}}
 	
 
-I should note that this may only have worked because of something pecular about this election cycle--I haven't gone an back-tested this approach or anything like that. 
+I should note that this may only have worked because of something peculiar about this election cycle--I haven't gone an back-tested this approach or anything like that. 
 
 Seems I was not the only one who noticed this kind of pattern:
 
@@ -103,13 +103,27 @@ However, that would only explain error in likely voter models, not polling based
 
 **COVID-19**: I wrote about [this back in June](https://solomonmg.github.io/post/trumps-chances-are-better-than-they-look/). It's possible that COVID-19 made lines long and kept people home in urban areas and non-white communities. Yes we had record turnout but all it takes is a few percent of people who encounter a bit of voting friction, who fail to register in person, don’t get in person canvassing/gotv contact, don’t vote by mail early, and/or don’t vote in vote in person. 
 
-**Shy Trump voters**: There's a hypothesis out there that people are embarassed to admit that they would vote for Trump. The evidence for this is limited--Kyle Dropp and co at Morning Consult did some experimental work on this and found that people were slightly more likely [in the 2016 primaries (but NOT the General and not in 2020)](https://morningconsult.com/form/shy-trump-2020/) to say that they would vote for Trump when answering via online survey compared with speaking with a live pollster over the phone. But they've done many follow-on surveys since and the pattern doesn't persist.  
+At the same time, [David Shor points out](https://www.nytimes.com/2020/11/10/upshot/polls-what-went-wrong.html) in a piece by Nate Cohn at the New York Times, that "...after lockdown, Democrats just started taking surveys, because they were locked at home and didn’t have anything else to do."
+
+![normal](/img/DavidShorOLNCNYT.png)
+
+Without Dems doing the usual in-person registration drives, organizing, canvassing, etc. plus long lines in the hardest hit areas, and with Democrats taking surveys at unusually high rates, we might expect to see Trump overperform in areas hit hardest by COVID-19.  
+
+And indeed the data show just that. NPR has a nice visualization of this: 
+
+{{< single_tweet 1326348370869415937 >}}
+
+Another possibility is that shutdowns, school closings, and job losses stoked anger & resentment in centrist & right-leaning voters. I remember watching a local FB group quickly organize around the issue of school-openings and eventually morph into a hub for protests.
+
+That seems to stand in sharp contrast to speculation that Trump would be hit hardest in areas where people are most likely to know someone with COVID. 
+
+**Shy Trump voters**: There's a hypothesis out there that people are embarrassed to admit that they would vote for Trump. The evidence for this is limited--Kyle Dropp and co at Morning Consult did some experimental work on this and found that people were slightly more likely [in the 2016 primaries (but NOT the General and not in 2020)](https://morningconsult.com/form/shy-trump-2020/) to say that they would vote for Trump when answering via online survey compared with speaking with a live pollster over the phone. But they've done many follow-on surveys since and the pattern doesn't persist.  
 
 {{< single_tweet 1324948324718436352 >}}
 
-I am skeptical that this could be as much of a factor as some on social media seem to be claiming, but it's hard to get good data to answer this question and acknoweldge that absence of evidence is not evidence of absence. A number of commentors have claimed that since the polls underestimated support for all Republicans, this is an unlikely explaination. 
+I am skeptical that this could be as much of a factor as some on social media seem to be claiming, but it's hard to get good data to answer this question and acknowledge that absence of evidence is not evidence of absence. A number of commentators have claimed that since the polls underestimated support for all Republicans, this is an unlikely explanation. 
 
-That sounds pretty air-tight at first glance but it's possible that some undecideds, perhaps embarassed about having Trump as a figurehead of the Republican party, refused to say with certainty who they would actually vote for. Nevertheless, based on the pattern of results we've seen so far, this really can't explain very much of the polling error this time around. 
+That sounds pretty air-tight at first glance but it's possible that some undecideds, perhaps embarrassed about having Trump as a figurehead of the Republican party, refused to say with certainty who they would actually vote for. Nevertheless, based on the pattern of results we've seen so far, this really can't explain very much of the polling error this time around. 
 
 ## The Role of Election Forecasts
 
