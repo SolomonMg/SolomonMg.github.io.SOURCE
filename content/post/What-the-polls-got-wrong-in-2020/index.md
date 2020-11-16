@@ -30,7 +30,7 @@ image:
 projects: [research]
 ---
 
-It’s becoming clear that the 2020 polls underestimated Trump’s support by anywhere from a 3-8 point margin depending on your accounting--a significantly worse miss than in 2016, when [state polls were off but the national polls did relatively well](https://fivethirtyeight.com/features/the-polls-are-all-right/). 
+It’s becoming clear that the 2020 polls underestimated Trump’s support by anywhere from a 4-8 point margin depending on your accounting--a significantly worse miss than in 2016, when [state polls were off but the national polls did relatively well](https://fivethirtyeight.com/features/the-polls-are-all-right/). 
 
 In fact, this year we were better off using projections based on past vote history in each state to predict how things would go in battleground states, as I'll show below. 
 
@@ -109,7 +109,7 @@ At the same time, [David Shor points out](https://www.nytimes.com/2020/11/10/ups
 
 Without Dems doing the usual in-person registration drives, organizing, canvassing, etc. plus long lines in the hardest hit areas, and with Democrats taking surveys at unusually high rates, we might expect to see Trump overperform in areas hit hardest by COVID-19.  
 
-And indeed the data show just that. NPR has a nice visualization of this: 
+And indeed the data show just that. [NPR has a nice visualization of this](https://www.npr.org/sections/health-shots/2020/11/06/930897912/many-places-hard-hit-by-covid-19-leaned-more-toward-trump-in-2020-than-2016): 
 
 {{< single_tweet 1326348370869415937 >}}
 
