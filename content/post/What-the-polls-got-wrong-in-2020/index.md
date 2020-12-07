@@ -115,6 +115,13 @@ And indeed the data show just that. [NPR has a nice visualization of this](https
 
 Another possibility is that shutdowns, school closings, and job losses stoked anger & resentment in centrist & right-leaning voters. I remember watching a local FB group quickly organize around the issue of school-openings and eventually morph into a hub for protests.
 
+EDIT: I took a look at his performance by the urbanicity and racial makeup of those counties and here's what I found:
+
+![normal](/img/share_over_2016_pct_nonwhite_covid_up_weighted.png)
+![normal](/img/share_over_2016_pct_urban_covid_up_weighted.png )
+
+Trump outperforms 2016 in non-white counties, and UNDER-performs in mostly-white counties. Same for more urban counties. That's consistent w/ covid hitting non-white counties much harder in terms of registration, long-lines, and lower VBM rates.
+
 That seems to stand in sharp contrast to speculation that Trump would be hit hardest in areas where people are most likely to know someone with COVID. 
 
 **Shy Trump voters**: There's a hypothesis out there that people are embarrassed to admit that they would vote for Trump. The evidence for this is limited--Kyle Dropp and co at Morning Consult did some experimental work on this and found that people were slightly more likely [in the 2016 primaries (but NOT the General and not in 2020)](https://morningconsult.com/form/shy-trump-2020/) to say that they would vote for Trump when answering via online survey compared with speaking with a live pollster over the phone. But they've done many follow-on surveys since and the pattern doesn't persist.  
