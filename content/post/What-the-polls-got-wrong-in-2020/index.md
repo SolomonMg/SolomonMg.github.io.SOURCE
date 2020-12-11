@@ -60,8 +60,7 @@ What are these projections? I simply took the last two state-level Presidential 
 
 (Note that I also weighted 60-40 toward the Presidential results, and slightly regularized both the latest margin and the trajectory toward zero.)
 
-This approach was inspired by findings from [Yair Ghitza](https://catalist.us/yair-ghitza-phd/), which if I understood them correctly, suggested that the best election forecasts look a lot like regularized swing projections from past electoral contests. 
-
+Informing this approach is work from [Yair Ghitza](https://catalist.us/yair-ghitza-phd/) describing what went wrong in 2016, which suggested polarization and other state-level trends would continue, in addition to national trends or "uniform swing." 
 
 {{< single_tweet 1325564912798752773 >}}
 	
