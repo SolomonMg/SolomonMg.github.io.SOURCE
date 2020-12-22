@@ -22,7 +22,10 @@ author = "admin"
 
 - [What color is Obama? These researchers examined reactions when his skin looks darker](https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/11/what-color-is-obama-these-researchers-examined-reactions-when-his-skin-looks-darker/). **Washington Post's Monkey Cage** 
 
-## Radio/Podcasts 
+## Radio/Podcasts/Video
+
+- [Technology in Political Campaigns and Activism](https://www.youtube.com/watch?v=LW05yRGrwfQ) **2020 CODE@MIT - Fireside Panel, hosted by Dean Eckles**
+
 - [Should We Stop Paying Attention To Election Forecasts?](https://www.sciencefriday.com/segments/election-forecasts/) **NPR's Science Friday, hosted by Ira Flatow & Elah Feder** 
 
 - [Data Science across Academia, Industry, and Progressive Campaigns, with Dr. Solomon Messing](https://socialmediaandpolitics.simplecast.com/episodes/data-science-academia-tech-industry-progressive-campaigns-solomon-messing). **Social Media and Politics Podcast, hosted by Michael Bossetta** 
