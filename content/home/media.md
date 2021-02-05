@@ -30,6 +30,8 @@ author = "admin"
 
 - [Data Science across Academia, Industry, and Progressive Campaigns, with Dr. Solomon Messing](https://socialmediaandpolitics.simplecast.com/episodes/data-science-academia-tech-industry-progressive-campaigns-solomon-messing). **Social Media and Politics Podcast, hosted by Michael Bossetta** 
 
+- [A Look Beyond Traditional Audiences + Models with Solomon Messing](https://youtu.be/9ZRpDPcN7I0?t=85) **FWIW 2020 Debrief, hosted by ACRONYM**
+
 - [Using Trumps Tactics Against Him with The Leaders of Barometer](https://soundcloud.com/thegreatbattlefield/using-trumps-tactics-against-him-with-the-leaders-of-barometer). **The Great Battlefield Podcast, hosted by Nathaniel G. Pearlman** 
 
 ## Media Clips
