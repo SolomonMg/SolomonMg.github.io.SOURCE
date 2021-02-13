@@ -10,11 +10,6 @@
 
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -28,6 +23,17 @@
   name = "Media"
   url = "#media"
   weight = 50
+
+[[main]]
+  name = "Twitter"
+  url = "#top_tweets"
+  weight = 55
+
+
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "Tech Stack"

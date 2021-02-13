@@ -66,13 +66,13 @@ user_groups:
 ---
 
 
-Social science for machine learning at Twitter. Affiliated Researcher at Georgetown. Former Chief Scientist at ACRONYM; founding Director at Pew Research Center’s [Data Labs](http://www.pewresearch.org/fact-tank/2017/02/23/qa-with-solomon-messing-of-pew-research-centers-data-labs/); Principal Research Scientist at Facebook. PhD from Stanford University; Stats MS from the same. 
+Social science and machine learning at Twitter. Georgetown Researcher. Formerly: Chief Scientist at ACRONYM; founding Director at Pew Research Center’s [Data Labs](http://www.pewresearch.org/fact-tank/2017/02/23/qa-with-solomon-messing-of-pew-research-centers-data-labs/); Principal Research Scientist at Facebook. PhD & stats MS from Stanford University. 
 
-Research has focused on how people understand and react to social information, using both survey and high-dimensional behavioral data. Work published in [Science](pdf/Science-2015-Bakshy-1130-2.pdf), the [American Political Science Review](pdf/EstimatingIdeologyFromFacebookPageLikes.pdf), the [Journal of Politics](pdf/aggregator.pdf), [Public Opinion Quarterly](pdf/HSVmetricsCampaignsDarknessPOQFINAL.pdf), [Communication Research](pdf/SocialNewsCommRes.pdf), [Radiology](http://pubs.rsna.org/doi/full/10.1148/radiol.11110715) and [Pediatric Radiology](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2011.00280.x/abstract). My book, [*The Impression of Influence*](pdf/GrimmerWestwoodMessingBook.pdf) with Justin Grimmer and Sean Westwood, was published by Princeton University Press.
-
-Some past work using [privacy tech](https://arxiv.org/abs/2002.04049) to [unlock research/ML](pdf/Facebook_DP_URLs_Dataset.pdf) in corporate data warehouses. 
+Research at the intersection of social interaciton and machine learning, featured in the [New York Times, Washington Post, NPR, CBS, Wired, Vox, FastCompany, TechCrunch, and more](#media). Published in [Science](pdf/Science-2015-Bakshy-1130-2.pdf), the [American Political Science Review](pdf/EstimatingIdeologyFromFacebookPageLikes.pdf), the [Journal of Politics](pdf/aggregator.pdf), [Public Opinion Quarterly](pdf/HSVmetricsCampaignsDarknessPOQFINAL.pdf), [Communication Research](pdf/SocialNewsCommRes.pdf), [Radiology](http://pubs.rsna.org/doi/full/10.1148/radiol.11110715) and [Pediatric Radiology](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9477.2011.00280.x/abstract). Book published by Princeton University Press: [*The Impression of Influence*](pdf/GrimmerWestwoodMessingBook.pdf) with [Justin Grimmer](https://www.justingrimmer.org/) and [Sean Westwood](https://www.dartmouth.edu/~seanjwestwood/).
 
 [Not a huge fan of election forecasts](https://twitter.com/SolomonMg/status/1311649795258421252?s=20). Fun debates with Nate Silver about it [here](https://twitter.com/SolomonMg/status/987870235905544192?s=20) and [here](https://twitter.com/SolomonMg/status/1311834037447798784?s=20). 
+
+Some past work using [privacy tech](https://arxiv.org/abs/2002.04049) to [unlock research/ML](pdf/Facebook_DP_URLs_Dataset.pdf) in corporate data warehouses. 
 
 Accidentally fell into data science in 2006 when my team couldn't get budget for Stata and so got paid for 2 years to learn R. 
 
