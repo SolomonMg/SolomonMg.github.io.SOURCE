@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Chief Scientist
+role: Social Science & ML
 
 # Organizations/Affiliations
 organizations:
-- name: Another Acronym
+- name: Twitter
 - name: Georgetown University
   url: ""
 
