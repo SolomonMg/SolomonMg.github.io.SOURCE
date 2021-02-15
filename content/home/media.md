@@ -14,25 +14,27 @@ title = "Media"
 author = "admin"
 +++
 
-## Op-Eds 
-
-- [Election forecasts helped elect Trump in 2016. It could happen again in 2020](https://www.usatoday.com/story/opinion/2020/10/01/election-forecasts-can-wrong-you-still-need-vote-column/5857993002/). **USA Today**
-
-- [How election forecasts confuse Americans — and may lead them not to vote at all](https://www.washingtonpost.com/news/monkey-cage/wp/2018/03/22/how-election-forecasts-confuse-americans-and-may-lead-them-not-to-vote-at-all/). **Washington Post's Monkey Cage** 
-
-- [What color is Obama? These researchers examined reactions when his skin looks darker](https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/11/what-color-is-obama-these-researchers-examined-reactions-when-his-skin-looks-darker/). **Washington Post's Monkey Cage** 
-
 ## Radio/Podcasts/Video
-
-- [Technology in Political Campaigns and Activism](https://www.youtube.com/watch?v=LW05yRGrwfQ) **2020 CODE@MIT - Fireside Panel, hosted by Dean Eckles**
 
 - [Should We Stop Paying Attention To Election Forecasts?](https://www.sciencefriday.com/segments/election-forecasts/) **NPR's Science Friday, hosted by Ira Flatow & Elah Feder** 
 
 - [Data Science across Academia, Industry, and Progressive Campaigns, with Dr. Solomon Messing](https://socialmediaandpolitics.simplecast.com/episodes/data-science-academia-tech-industry-progressive-campaigns-solomon-messing). **Social Media and Politics Podcast, hosted by Michael Bossetta** 
 
-- [A Look Beyond Traditional Audiences + Models with Solomon Messing](https://youtu.be/9ZRpDPcN7I0?t=85) **FWIW 2020 Debrief, hosted by ACRONYM**
+- [Technology in Political Campaigns and Activism](https://www.youtube.com/watch?v=LW05yRGrwfQ) **2020 CODE@MIT - Fireside Panel, hosted by Dean Eckles**
 
 - [Using Trumps Tactics Against Him with The Leaders of Barometer](https://soundcloud.com/thegreatbattlefield/using-trumps-tactics-against-him-with-the-leaders-of-barometer). **The Great Battlefield Podcast, hosted by Nathaniel G. Pearlman** 
+
+- [A Look Beyond Traditional Audiences + Models with Solomon Messing](https://youtu.be/9ZRpDPcN7I0?t=85) **FWIW 2020 Debrief, hosted by ACRONYM**
+
+
+## Op-Eds 
+
+- [What color is Obama? These researchers examined reactions when his skin looks darker](https://www.washingtonpost.com/news/monkey-cage/wp/2016/01/11/what-color-is-obama-these-researchers-examined-reactions-when-his-skin-looks-darker/). **Washington Post's Monkey Cage** 
+
+- [How election forecasts confuse Americans — and may lead them not to vote at all](https://www.washingtonpost.com/news/monkey-cage/wp/2018/03/22/how-election-forecasts-confuse-americans-and-may-lead-them-not-to-vote-at-all/). **Washington Post's Monkey Cage** 
+
+- [Election forecasts helped elect Trump in 2016. It could happen again in 2020](https://www.usatoday.com/story/opinion/2020/10/01/election-forecasts-can-wrong-you-still-need-vote-column/5857993002/). **USA Today**
+
 
 ## Media Clips
 
