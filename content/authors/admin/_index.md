@@ -16,6 +16,7 @@ role: Data Science & ML
 organizations:
 - name: Twitter
 - name: Georgetown University
+- name: (He/him)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
