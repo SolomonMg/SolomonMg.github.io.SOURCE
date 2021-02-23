@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Science & ML
+role: Social Science | ML
 
 # Organizations/Affiliations
 organizations:
