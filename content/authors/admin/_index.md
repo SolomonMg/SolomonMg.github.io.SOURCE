@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Social Science & ML
+role: Data Science & ML
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ user_groups:
 ---
 
 
-Sol's team uses social science to advance Twitter's machine learning efforts and develop safeguards against algorithmic bias. He has 15 years of experience in social science and ML, and has been leading technical teams since 2006. His work on social science and ML has been featured in the [New York Times, Washington Post, CBS, Wired, Vox, FastCompany, TechCrunch, and more](#media), and he's discussed it on [NPR and various podcasts](#media). 
+Sol's team uses computational social science to advance Twitter's machine learning efforts (Cortex) and develop safeguards against algorithmic bias. He has 15 years of experience in social science and ML, and has been leading technical teams since 2006. His work on social science and ML has been featured in the [New York Times, Washington Post, CBS, Wired, Vox, FastCompany, TechCrunch, and more](#media), and he's discussed it on [NPR and various podcasts](#media). 
 
 During the 2020 election cycle, Sol was Chief Scientist at [ACRONYM](https://www.nytimes.com/2020/04/28/us/politics/Facebook-Acronym-advertising.html), where his team drove high-level strategic investment by [correctly modeling the electoral importance of Georgia](http://localhost:1313/post/what-the-polls-got-wrong-in-2020/), and leveraged hundreds of field experiments to build [ML systems to produce real-time estimates of persuasive messaging impact](https://towardsdatascience.com/the-haha-ratio-learning-from-facebooks-emoji-reactions-to-predict-persuasion-effects-of-fcd9180ea5dd). 
 
