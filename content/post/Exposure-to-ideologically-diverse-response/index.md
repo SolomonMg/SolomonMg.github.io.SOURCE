@@ -7,8 +7,8 @@ summary: ""
 authors: [Eytan Bakshy, Sol Messing]
 tags: []
 categories: []
-date: 2014-10-11
-lastmod: 2014-11-15
+date: 2015-04-24
+# lastmod: 2015-11-15
 featured: true
 draft: false
 
@@ -31,7 +31,7 @@ projects: [research]
 ---
 
 
-Earlier this month, we published an early access version of our paper in ScienceExpress ([Bakshy et al. 2015](https://dl.dropboxusercontent.com/u/25710348/Science-2015-Bakshy-1130-2.pdf)), "Exposure to ideologically diverse news and opinion on Facebook." The paper constitutes the first attempt to quantify the extent to which ideologically cross-cutting hard news and opinion is shared by friends, appears in algorithmically ranked News Feeds, and is actually consumed (i.e., click through to read).
+Earlier this month, we published an early access version of our paper in ScienceExpress ([Bakshy et al. 2015](/pdf/Science-2015-Bakshy-1130-2.pdf)), "Exposure to ideologically diverse news and opinion on Facebook." The paper constitutes the first attempt to quantify the extent to which ideologically cross-cutting hard news and opinion is shared by friends, appears in algorithmically ranked News Feeds, and is actually consumed (i.e., click through to read).
 
 We are grateful for the widespread interest this paper, which grew out of two threads of related research that we began nearly five years ago: Eytan and Lada\'s work on the role of social networks in information diffusion ([Bakshy et al. 2012](http://arxiv.org/pdf/1201.4145v2.pdf)) and Sean and Solomon\'s work on selective exposure in social media ([Messing and Westwood 2012](http://crx.sagepub.com/content/41/8/1042)).
 
@@ -147,7 +147,7 @@ These questions are especially important in light of the fact that there are sub
 
 **Dataverse**
 
-Finally, we believe that reproducing, replicating, and conducting additional analyses on extant data sets is extremely important and helps generate ideas for future work ([King 1995](http://gking.harvard.edu/files/abs/replication-Abs.shtml), [Leeper 2015](http://thomasleeper.com/2015/05/open-science-language/)). In that spirit, we have created a [Facebook Dataverse repository](http://dataverse.harvard.edu/dataverse/facebook) in the [Harvard Dataverse](http://dataverse.org/about/). The repository includes replication data, scripts, as well as some additional supplementary data and code for extending our work.
+Finally, we believe that reproducing, replicating, and conducting additional analyses on extant data sets is extremely important and helps generate ideas for future work ([King 1995](http://gking.harvard.edu/files/abs/replication-Abs.shtml), [Leeper 2015](http://thomasleeper.com/2015/05/open-science-language/)). In that spirit, we have created a [Dataverse archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AAI7VA). The repository includes replication data, scripts, as well as some additional supplementary data and code for extending our work.
 
 **References**
 

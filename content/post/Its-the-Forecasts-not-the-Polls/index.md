@@ -62,7 +62,7 @@ That doesn't mean we need horserace probablistic forecasts. Beyond distracting f
 
 3. But the consequences go beyond voter turnout. FBI Director James Comey said he felt that it was his duty to write a letter to Congress saying he was reopening the investigation into candidate Hillary Clinton’s emails because he was [certain she would win](https://abcnews.go.com/Politics/comey-assumption-clinton-win-factor-email-investigation/story?id=54467459). At around the same time, the Obama administration’s confidence in a Clinton victory was reportedly a factor in the muted [response to Russian intervention](https://www.washingtonpost.com/graphics/2017/world/national-security/obama-putin-election-hacking/) in the election. Finally, Zeynep Tufecki asks [New York Times Op-Ed](https://www.nytimes.com/2020/11/01/opinion/election-forecasts-modeling-flaws.html): "... did Facebook, battered by conservatives before the 2016 election, take a hands-off approach to the proliferation of misinformation on its platform, thinking that Mrs. Clinton’s odds were so favorable that such misinformation made little difference?"
 
-
+4. How can we even know if 
 
 
 

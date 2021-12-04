@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Social Science | ML
+role: Social Science, Causal Inference | ML
 
 # Organizations/Affiliations
 organizations:
