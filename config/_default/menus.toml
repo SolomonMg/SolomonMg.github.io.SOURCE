@@ -20,18 +20,18 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#featured_pubs"
   weight = 50
 
 [[main]]
   name = "Media"
   url = "#media"
-  weight = 60
+  weight = 55
 
 [[main]]
   name = "Twitter"
   url = "#top_tweets"
-  weight = 65
+  weight = 60
 
 
 [[main]]

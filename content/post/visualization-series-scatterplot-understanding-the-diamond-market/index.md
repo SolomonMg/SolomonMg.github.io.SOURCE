@@ -6,8 +6,8 @@ summary: "Second post in my data visualization series on scatterplots and regres
 authors: [Sol Messing]
 tags: []
 categories: []
-date: 2014-10-11
-lastmod: 2022-02-02
+date: 2020-02-02
+lastmod: 2020-02-02
 featured: true
 draft: false
 
@@ -34,7 +34,7 @@ projects: ["datavis"]
 
 ![ggpairs](/img/fbfa61f67413c8e2805c507a14b38c24c5373265.png)
 
-My last post railed against the [bad visualizations that people often use to plot quantitive data by groups, and pitted pie charts, bar charts and dot plots against each other for two visualization tasks.  Dot plots came out on top](https://solomonmg.github.io/blog/2012/visualization-series-insight-from-cleveland-and-tufte-on-plotting-numeric-data-by-groups/).  I argued that this is because humans are good at the cognitive task of comparing position along a common scale, compared to making judgements about length, area, shading, direction, angle, volume, curvature, etc.---a finding credited to Cleveland and McGill.  I enjoyed writing it and people seemed to like it, so I'm continuing my visualization series with the scatterplot.
+My last post railed against the [bad visualizations that people often use to plot quantitive data by groups, and pitted pie charts, bar charts and dot plots against each other for two visualization tasks.  Dot plots came out on top](/post/visualization-series-insight-from-cleveland-and-tufte-on-plotting-numeric-data-by-groups/).  I argued that this is because humans are good at the cognitive task of comparing position along a common scale, compared to making judgements about length, area, shading, direction, angle, volume, curvature, etc.---a finding credited to Cleveland and McGill.  I enjoyed writing it and people seemed to like it, so I'm continuing my visualization series with the scatterplot.
 
 ## Scatterplots
 
