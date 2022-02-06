@@ -41,14 +41,15 @@ slides: ""
 ---
 
 
-On January 17, my team at Facebook launched one of the largest social science data sets ever constructed. It’s meant to facilitate research on misinformation from across the web, shared and spread on Facebook.
+On January 17, 2020 my team at Facebook launched one of the largest social science data sets ever constructed. It’s meant to facilitate research on misinformation from across the web, shared and spread on Facebook.
 
 [Full details on the release here](/pdf/Facebook_DP_URLs_Dataset.pdf).
+
+We also released the [URL santization framework](https://github.com/facebookresearch/URL-Sanitization), which I implemented (and which my SWE colleagues refactored). 
 
 What makes this data release unprecedented is that it contains *exposure data* describing external links that billions of users saw and read while using the site.
 
 The data set goes beyond URL-level data, breaking down exposure and interactions by month, country, age, gender, and in the U.S., political page affinity (see Barbera et al 2015).
-
 
 The data contain two tables: (1) a “URL attributes” table describing the 38 million URLs in the data set, including how many times users tagged those posts as containing misinformation, harassment, etc. and (2) a “breakdown” table, which aggregates counts of actions taken on urls, broken out by user demographics and URL attributes.
 
@@ -56,4 +57,3 @@ The [technical documentation](/pdf/Facebook_DP_URLs_Dataset.pdf) reflects more w
 
 Perhaps most importantly, this release provides guarantees about anonymity in an incredibly rigorous way--action-level differential privacy, while preserving more underlying signal in the data.
 
-UPDATE: Nice coverage on [Mashable](https://mashable.com/2014/11/17/data-hackathon/#EHDv8ugj7aqN) of the entire hackathon! Check out the winning hackathon project.
