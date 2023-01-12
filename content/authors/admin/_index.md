@@ -10,17 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr Engineering Manager
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Sciences, Twitter
 - name: Georgetown University
 - name: (He/him)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sol Messing is Sr Engineering Manager at Twitter
+bio: Sol Messing is Visiting Researcher at Georgetown University
 
 education:
   courses:
@@ -67,14 +66,17 @@ user_groups:
 ---
 
 
-My work sits at the intersection of social science and machine learning. In my current role at Twitter, I lead an organization working on some of the hardest problems at the company:
+<!-- In my current role at Twitter, I lead an organization working on some of the hardest problems at the company:
 
-1. How can we understand and reward the value people bring when they create content or connect with a colleague on the platform? <!-- 2. How can we estimate value over the long term, particularly when the link between cause and effect becomes more distant?-->
+1. How can we understand and reward the value people bring when they create content or connect with a colleague on the platform? 
+2. How can we estimate value over the long term, particularly when the link between cause and effect becomes more distant?
 2. How can we grapple with the short- and long-term tradeoffs between engagement and action against problematic discourse? 
 3. How can we extract meaningful signal from messy, high-dimensional data to better understand that value?
 4. How can we design experiments to estimate that value in the presence of substantial network- and congestion effects?
 
-I've led technical teams since 2006 with regular executive communication \& public outreach -- [media fun/press clips here](#media). During the 2020 election cycle, I was Chief Scientist at [ACRONYM](https://www.nytimes.com/2020/04/28/us/politics/Facebook-Acronym-advertising.html), where my team drove investment by (correctly) [modeling the electoral importance of Georgia](/post/what-the-polls-got-wrong-in-2020/), leveraged hundreds of field experiments to build an [ML system to produce real-time estimates of persuasive messaging impact](https://towardsdatascience.com/the-haha-ratio-learning-from-facebooks-emoji-reactions-to-predict-persuasion-effects-of-fcd9180ea5dd), and conducted the largest ever digital advertsing field experiment (link tbd).
+-->
+
+My work sits at the intersection of social science and machine learning. I've led technical teams since 2006 with regular executive communication \& public outreach -- [media fun/press clips here](#media). During the 2020 election cycle, I was Chief Scientist at [ACRONYM](https://www.nytimes.com/2020/04/28/us/politics/Facebook-Acronym-advertising.html), where my team drove investment by (correctly) [modeling the electoral importance of Georgia](/post/what-the-polls-got-wrong-in-2020/), leveraged hundreds of field experiments to build an [ML system to produce real-time estimates of persuasive messaging impact](https://towardsdatascience.com/the-haha-ratio-learning-from-facebooks-emoji-reactions-to-predict-persuasion-effects-of-fcd9180ea5dd), and conducted the largest ever digital advertsing field experiment (link tbd).
 <!-- --an amazing collaboration with [Minali Aggarwal](https://www.linkedin.com/in/minali-aggarwal/), [Sylvan Zheng](https://sylvan.fish/), [Dan Fankowski](https://medium.com/@dfrankow) and [James Barnes](http://www.jameslbarnes.com/)-->
 
 At Facebook, I led the technical effort to release a [differentially private data set reflecting more than an exabyte of media data](/project/condor_data_release/), and worked on prototypes that blend ML and experimentation (heterogenous effect estimation and contextual bandits). 
