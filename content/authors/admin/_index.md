@@ -10,16 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Researcher
+role: Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Georgetown University
+- name: New York University
+- name: Georgetown University (Affiliate Researcher with the McCourt School of Public Policy) #https://gufaculty360.georgetown.edu/s/contact/0031Q000028oafWQAQ/solomon-messing
 - name: (He/him)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sol Messing is Visiting Researcher at Georgetown University
+bio: Sol Messing is Research Associate Professor at New York University
 
 education:
   courses:
@@ -76,7 +77,7 @@ user_groups:
 
 -->
 
-My work sits at the intersection of social science and machine learning. I've led technical teams since 2006 with regular executive communication \& public outreach -- [media fun/press clips here](#media). During the 2020 election cycle, I was Chief Scientist at [ACRONYM](https://www.nytimes.com/2020/04/28/us/politics/Facebook-Acronym-advertising.html), where my team drove investment by (correctly) [modeling the electoral importance of Georgia](/post/what-the-polls-got-wrong-in-2020/), leveraged hundreds of field experiments to build an [ML system to produce real-time estimates of persuasive messaging impact](https://towardsdatascience.com/the-haha-ratio-learning-from-facebooks-emoji-reactions-to-predict-persuasion-effects-of-fcd9180ea5dd), and conducted the largest ever digital advertsing field experiment (link tbd).
+I like big, policy-relevant social science projects. I've spent much of my career leading technical teams in industry, while managing to conduct scholarly research and participate in the public sphere -- [media fun/press clips here](#media). During the 2020 election cycle, I was Chief Scientist at [ACRONYM](https://www.nytimes.com/2020/04/28/us/politics/Facebook-Acronym-advertising.html), where my team drove investment by (correctly) [modeling the electoral importance of Georgia](/post/what-the-polls-got-wrong-in-2020/), oversaw a meta-analytic [ML system to generate estimates of persuasive messaging impact](https://towardsdatascience.com/the-haha-ratio-learning-from-facebooks-emoji-reactions-to-predict-persuasion-effects-of-fcd9180ea5dd) leveraging hundreds of past experiments and online behavioral data, and conducted the largest ever [digital advertsing field experiment in politics](/publication/aggarwal-2023-2-million-experiment/).
 <!-- --an amazing collaboration with [Minali Aggarwal](https://www.linkedin.com/in/minali-aggarwal/), [Sylvan Zheng](https://sylvan.fish/), [Dan Fankowski](https://medium.com/@dfrankow) and [James Barnes](http://www.jameslbarnes.com/)-->
 
 At Facebook, I led the technical effort to release a [differentially private data set reflecting more than an exabyte of media data](/project/condor_data_release/), and worked on prototypes that blend ML and experimentation (heterogenous effect estimation and contextual bandits). 
@@ -85,7 +86,7 @@ I founded the Data Lab at Pew Research Center, where my team conducted algorithm
 
 My work on [election forecasts](publication/wlm-2019-projecting/) sparked [public debates](https://twitter.com/SolomonMg/status/1311649795258421252?s=20) about the ethics and consequences of models projecting the results of elections, and prompted [FiveThirtyEight to change their user interface](https://fivethirtyeight.com/features/politics-podcast-whats-so-wrong-with-nancy-pelosi/) to address concerns raised by the work.  
 
-My doctoral work at Stanford consisted of [research on social influence](pdf/SocialNewsCommRes.pdf) and social structure in digital environments and probably the largest study of algorithmic bias in social media, which was later published in [Science](pdf/Science-2015-Bakshy-1130-2.pdf). I also did work to uncover [bias in visual portrayals of African American candidates in political attack ads](https://solomonmg.github.io/pdf/HSVmetricsCampaignsDarknessPOQFINAL.pdf), worked with a lab at Lucile Packard Children's Hospital on a number of [imaging studies](http://pubs.rsna.org/doi/full/10.1148/radiol.11110715) and wrote a book, [*The Impression of Influence*](pdf/GrimmerWestwoodMessingBook.pdf) with [Justin Grimmer](https://www.justingrimmer.org/) and [Sean Westwood](https://www.dartmouth.edu/~seanjwestwood/) which was published by Princeton University Press.
+My most widely cited work is from my dissertation, which identifies the critical drivers of what we consume online. Social signals (and ranking) dominate ideological signals, published in [Communication Research]](pdf/SocialNewsCommRes.pdf), and the networks we form on social media more powerfully govern exposure to ideologically diverse content than ranking or individal preference, published in [Science](pdf/Science-2015-Bakshy-1130-2.pdf). While at Stanford, I also did work to uncover [bias in visual portrayals of African American candidates in political attack ads](https://solomonmg.github.io/pdf/HSVmetricsCampaignsDarknessPOQFINAL.pdf), worked with a lab at Lucile Packard Children's Hospital on a number of [imaging studies](http://pubs.rsna.org/doi/full/10.1148/radiol.11110715) and wrote a book about how members of congress claim credit, [*The Impression of Influence*](pdf/GrimmerWestwoodMessingBook.pdf) with [Justin Grimmer](https://www.justingrimmer.org/) and [Sean Westwood](https://www.dartmouth.edu/~seanjwestwood/) which was published by Princeton University Press.
 
 
 
